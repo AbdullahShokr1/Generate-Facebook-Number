@@ -1,0 +1,5 @@
+
+pip install -U selenium
+
+pip2 install -U selenium
+
